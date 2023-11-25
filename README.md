@@ -1,16 +1,33 @@
-### Hi there 👋
+## 👋 Olá! Seja Bem vindo ao meu perfil aqui no Github!
 
-<!--
-**JoaoGabrielPuhlMachado/JoaoGabrielPuhlMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<a href="https://github.com/JoaoGabrielPuhlMachado">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielPuhlMachado&layout=compact&langs_count=7&theme=apprentice"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielPuhlMachado&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+</div>
+  
+   ## Linguagens que eu uso no meu dia a dia:
 
-Here are some ideas to get you started:
+<div style="display: inline_block" align="center"><br>
+  <!-- Programming Languages -->
+       <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+          
+  <img align="center" alt="bru-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="bru-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="bru-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="VueJs" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
+  
+</div>
+<br/>
+<br/>
+ 
+  ## Onde me encontrar?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> 
+
+ <a href="https://instagram.com/joaosttirlley/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+</div>
