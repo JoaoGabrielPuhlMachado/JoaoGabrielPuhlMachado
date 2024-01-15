@@ -3,14 +3,13 @@
 <a href="https://joaogabriel.dev/">
 <img src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
-<br>
+  
 <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-p-machado-bab091266/">
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<br>
+
 <a href="mailto:sttirlley@gmail.com">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-</a>
 </div>
 
 ### Daily Languages 🛠
@@ -28,6 +27,6 @@
 ### GitHub Stats 📈
 <br>
 <div align="center">
-<a href="https://github.com/JoaoGabrielPuhlMachado">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielPuhlMachado&layout=compact&langs_count=7&theme=apprentice"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielPuhlMachado&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
