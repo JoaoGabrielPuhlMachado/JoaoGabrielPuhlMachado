@@ -12,13 +12,12 @@
   <!-- Programming Languages -->
        <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
           
-  <img align="center" alt="bru-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="bru-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="bru-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="VueJs" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="Nuxt" height="30" width="40" src="https://icongr.am/devicon/nuxt-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="bru-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="bru-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="bru-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="VueJs" height="50" width="60" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="React" height="50" width="60" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="Django" height="50" width="60" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" />
   
 </div>
 <br/>
