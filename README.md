@@ -24,32 +24,8 @@
 
 ### GitHub Stats 📈
 <div align="center">
-  <table width="100%">
-    <tbody>
-      <tr>
-        <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/JoaoGabrielPuhlMachado">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielPuhlMachado&layout=compact&langs_count=7&theme=apprentice"/>
-          </a>
-        </div>
-        </td>
-        <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/JoaoGabrielPuhlMachado">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielPuhlMachado&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-          </a>
-        </div>
-        </td>
-      </tr>
-    </tbody>
-  <table>
-<div>
-
----
-
-<div align='center'>
-
+<a href="https://github.com/JoaoGabrielPuhlMachado">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielPuhlMachado&layout=compact&langs_count=7&theme=apprentice"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielPuhlMachado&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
 ![](https://komarev.com/ghpvc/?username=JoaoGabrielPuhlMachado&label=Profile+Views)
-
 </div>
