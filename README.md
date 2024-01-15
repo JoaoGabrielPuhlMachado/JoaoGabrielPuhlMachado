@@ -18,7 +18,7 @@
   <img align="center" alt="VueJs" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
   <img align="center" alt="React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
   <img align="center" alt="Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="Nuxt" height="30" width="40" src="https://icongr.am/devicon/nuxt-original.svg?size=128&color=currentColor" />
   
 </div>
 <br/>
