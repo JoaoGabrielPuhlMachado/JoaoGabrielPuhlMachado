@@ -60,14 +60,14 @@
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/JoaoGabrielPuhlMachado">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielPuhlMachado&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Joao Gabriel Language Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielPuhlMachado&hide=ruby&layout=compact&hide_border=false&langs_count=6" alt="Joao Gabriel Language Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/JoaoGabrielPuhlMachado">
-            <img src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielPuhlMachado&show_icons=true&hide=stars&hide_border=true" alt="JoaoGabriel's GitHub Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielPuhlMachado&show_icons=true&hide=stars&hide_border=false" alt="JoaoGabriel's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
