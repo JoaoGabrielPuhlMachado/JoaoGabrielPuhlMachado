@@ -3,11 +3,9 @@
   <a href="https://joaogabriel.dev/">
   <img src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
   </a>
-  <p style="color:transparent">espaço</p>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-p-machado-bab091266/">
   <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <p style="color:transparent">espaço</p>
   <a href="mailto:sttirlley@gmail.com">
   <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </div>
