@@ -1,5 +1,4 @@
 ### About Me
-<br>
 <div align="center">
 <a href="https://jeffreychiu.dev/">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
@@ -13,7 +12,6 @@
 </div>
 
 ### Daily Languages 🛠
-<br>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">       
   <img align="center" alt="bru-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
