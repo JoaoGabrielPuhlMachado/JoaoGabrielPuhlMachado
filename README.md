@@ -1,6 +1,6 @@
 ### About Me
 <div align="center">
-<a href="https://jeffreychiu.dev/">
+<a href="https://joaogabriel.dev/">
 <img src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-p-machado-bab091266/">
