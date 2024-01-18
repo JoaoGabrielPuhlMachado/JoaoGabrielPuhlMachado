@@ -26,5 +26,5 @@
 <br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielPuhlMachado&layout=compact&langs_count=7&theme=apprentice"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielPuhlMachado&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoGabrielPuhlMachado&theme=midnight-purple&show_icons=true)
 </div>
